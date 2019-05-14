@@ -3,6 +3,7 @@
 return [
     'profile' => 'Profil',
     'back' => 'Kembali ke links',
+    'backprofile' => 'Kembali ke profil',
     'points' => 'Poin:',
     'sharedlinks' => 'Tautan yang Dibagikan:',
     'links' => 'Links',
@@ -30,4 +31,5 @@ return [
     'nofour' => 'Anda harus mendaftar di Pro Laravel sebelum dapat menghubungi pengguna lain.',
     'nofive' => 'Pro Laravel bukan papan kerja dan kami tidak akan bertanggung jawab atas tindakan atau masalah pengguna saat mereka bekerja bersama.',
     'nosix' => 'Pro Laravel hanya menyediakan cara koneksi sederhana untuk memberi pengguna itu lebih banyak keterlibatan dalam komunitas open-source.',
+    'updateprofile' => 'Memperbaharui profil',
 ];

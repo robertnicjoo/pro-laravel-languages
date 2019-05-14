@@ -3,6 +3,7 @@
 return [
     'profile' => 'profile',
     'back' => 'Back to links',
+    'backprofile' => 'Back to profile',
     'points' => 'Points:',
     'sharedlinks' => 'Shared Links:',
     'links' => 'Links',
@@ -30,4 +31,5 @@ return [
     'nofour' => 'You need to register in Pro Laravel before being able to contact another users.',
     'nofive' => 'Pro Laravel is not job board and we will not take responsibility for users actions or problems while they working together.',
     'nosix' => 'Pro Laravel is just providing simple connection way in order to give it\'s own users more privilege of getting involved in open-source community.',
+    'updateprofile' => 'Update profile',
 ];
